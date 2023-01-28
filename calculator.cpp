@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-
+// declare variables and intiate them to be zero 
     double dNum1 = 0;
     double dNum2 = 0;
     double dResult = 0;
